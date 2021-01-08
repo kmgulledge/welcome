@@ -46,6 +46,9 @@ Misc:
 
 ## My Links
 [My Website](https://www.kevingulledge.com "My Website")
+
 [Instagram](https://www.instagram.com/kev_the_webdev/ "My Instagram")
+
 [Twitter](https://twitter.com/kev_the_webdev "My Twitter")
+
 [Youtube Music To Listen To While Coding](https://www.youtube.com/watch?v=T7doDSU3OfA "YouTube")

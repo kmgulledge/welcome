@@ -13,12 +13,18 @@ My Name Is Kevin. I Am A Husband To An Amazing Nurse, Father of 3, Coffee & Fitn
 Web Development:
 * HTML
 * CSS / Sass
+* Firebase
+* Git
+* JSON
 * Javascript / jQuery
 * Liquid
+* MongoDB
 * MySql
 * Node
 * Python
+* SQL
 * Wordpress / PHP
+* Vue
 
 Graphic Design | UI Design | UX Design:
 * Adobe Creative Suite
